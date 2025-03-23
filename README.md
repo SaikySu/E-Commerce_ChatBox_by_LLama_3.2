@@ -1,7 +1,7 @@
 # E-Commerce_ChatBox_by_LLama_3.2
  
 ## 1. Introduction
-This project uses the Llama 3.2 model fine-tuned with Vietnamese EE-commerce data from Hugging Face and utilizes Streamlit for user interaction and display.
+This project uses the Llama 3.2 model fine-tuned with Vietnamese E-commerce data from Hugging Face and utilizes Streamlit for user interaction and display.
 
 ## 2. Dataset
 The dataset includes 69.3k columns in a pre-structured CSV file, allowing the model to learn most effectively.
